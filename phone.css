@@ -1,0 +1,60 @@
+/* navigation */
+.musicflex{
+    flex-direction: column;
+    align-content: center;
+}
+.musicflex video{
+    flex-direction: column;
+    align-content: center;
+    width: 1100px;
+}
+.musicsection{
+    width: 393vw;
+}
+.timelinesection{
+    width: 393vw;
+}
+.gallarysection{
+    width: 393vw;
+}
+.credssection{
+    width: 393vw;
+}
+.socials ul li a img{
+    width: 90px;
+    height: 90px;
+    margin-left: 60px;
+}
+.gallaryflex img{
+    width: 549px;
+}
+.content{
+    font-size: 50px;
+}
+#album{
+    font-size: 3rem;
+}
+#intro div img{
+    margin: 152px 0px 0px 539px;
+    width: 921px;
+    height: 694px;
+}
+h1, #p1, #p2, #p3{
+    margin-left: 200px;
+}
+#intro::before{
+   
+    margin: 64px 0px 0px 1140px;
+}
+.navbar ul{
+    margin: 1px 0px 0px 1200px;
+}
+.navbar ul li a{
+    font-size: 3rem;
+}
+.navbar::before{
+    width: 393vw;
+}
+body{
+    zoom: 25%;
+}
